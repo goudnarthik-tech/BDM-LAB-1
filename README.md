@@ -5,7 +5,7 @@
 **Class / Section:** 214-Cse-2d  
 
 ## Live link
-Not deployed. This lab is provided as a local Node.js project. A public deployment URL can be added here after deploying to Render, Railway, or the institution's Cloud IDE.
+https://bdm-lab-1.onrender.com
 
 ## Objective
 Create a basic server first with Node.js' built-in `http` module and then with Express. Add routes, return correct HTTP status codes, and log the status code for each request.
